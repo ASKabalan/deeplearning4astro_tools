@@ -12,10 +12,10 @@ See the [frontpage](https://github.com/mhuertascompany/deeplearning4astronomy) f
 ### With the `conda` environment
   ```
   conda activate dl4astro19       # Activates the virtual env
-  pip install git+https://github.com/aboucaud/deeplearning4astro_tools
+  pip install git+https://github.com/ASKabalan/deeplearning4astro_tools
   ```
   
 ### With system Python or a virtual environment.
   ```
-  python -m pip install git+https://github.com/aboucaud/deeplearning4astro_tools
+  python -m pip install git+https://github.com/ASKabalan/deeplearning4astro_tools
   ```
